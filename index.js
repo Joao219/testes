@@ -13,7 +13,7 @@ function start(){
 
     function askAndReturnPrefix(){
         const prefixes = ["Who is","What is", "The history of"]
-        const selectedPrefixIndex = readline.keyInSelect(prefixes, "Select one options: ")
+        const selectedPrefixIndex = readline.keyInSelect(prefixes, `Select one option for ${content.searchTerm}`)
         const selectedPrefixText = prefixes[selectedPrefixIndex]
 
         return selectedPrefixText
