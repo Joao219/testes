@@ -1,0 +1,22 @@
+{
+  "name": "testes",
+  "version": "1.0.0",
+  "description": "Testes em nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joao219/testes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joao219/testes/issues"
+  },
+  "homepage": "https://github.com/Joao219/testes#readme",
+  "devDependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
