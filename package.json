@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Joao219/testes/issues"
   },
-  "homepage": "https://github.com/Joao219/testes#readme"
+  "homepage": "https://github.com/Joao219/testes#readme",
+  "devDependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
